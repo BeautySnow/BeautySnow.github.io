@@ -1089,9 +1089,6 @@ pre .javascript .function {
 .back-to-top.back-to-top-on {
   bottom: 30px;
 }
-.header {
-  background: url("../images/apple-touch-icon-next.png");
-}
 .header-inner {
   position: relative;
 }
@@ -1823,7 +1820,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #aa388a;
+  background: #b8cd0d;
 }
 .links-of-blogroll {
   font-size: 13px;
